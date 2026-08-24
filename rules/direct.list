@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,mzstatic.com
 # Apple IPv4 Blocks
 IP-CIDR,17.0.0.0/8,no-resolve
 
+# 字节跳动
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,volccdn.com
+
 # 腾讯
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.com.cn
