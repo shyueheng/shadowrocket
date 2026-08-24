@@ -44,3 +44,6 @@ DOMAIN-SUFFIX,mountaintoys.cn
 
 # 阿里巴巴
 DOMAIN-SUFFIX,aliyuncs.com
+
+# Deepseek
+DOMAIN-SUFFIX,deepseek.com
