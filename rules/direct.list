@@ -47,3 +47,7 @@ DOMAIN-SUFFIX,aliyuncs.com
 
 # DeepSeek
 DOMAIN-SUFFIX,deepseek.com
+
+# 国内直连
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,miit.gov.cn
