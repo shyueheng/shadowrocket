@@ -12,3 +12,14 @@ DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,mzstatic.com
 # Apple IPv4 Blocks
 IP-CIDR,17.0.0.0/8,no-resolve
+
+# 腾讯
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qq.com.cn
+DOMAIN-SUFFIX,qpic.cn
+# 用户头像
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,tencentcos.cn
+DOMAIN-SUFFIX,tfogc.com
+DOMAIN-SUFFIX,wechatpay.cn
