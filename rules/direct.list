@@ -38,6 +38,19 @@ DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,ndcpp.com
 DOMAIN-SUFFIX,yhgfb-cn-static.com
 DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,baike.com
+DOMAIN-SUFFIX,bdurl.net
+DOMAIN-SUFFIX,bytemaimg.com
+DOMAIN-SUFFIX,bytemastatic.com
+DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,ecombdpage.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,qishui.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,toutiaocloud.com
+DOMAIN-SUFFIX,toutiaocloud.net
+DOMAIN-SUFFIX,ugsdk.cn
 
 # 腾讯
 DOMAIN-SUFFIX,qq.com
