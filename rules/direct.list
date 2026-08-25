@@ -13,100 +13,14 @@ DOMAIN-SUFFIX,mzstatic.com
 # Apple IPv4 Blocks
 IP-CIDR,17.0.0.0/8,no-resolve
 
-# 字节跳动
-DOMAIN-SUFFIX,volces.com
-DOMAIN-SUFFIX,volccdn.com
-DOMAIN-SUFFIX,applogcdn.com
-DOMAIN-SUFFIX,byted-static.com
-DOMAIN-SUFFIX,bytedance.com
-DOMAIN-SUFFIX,bytednsdoc.com
-DOMAIN-SUFFIX,byteeffecttos.com
-DOMAIN-SUFFIX,bytegecko.com
-DOMAIN-SUFFIX,bytegoofy.com
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,bytescm.com
-DOMAIN-SUFFIX,bytetcc.com
-DOMAIN-SUFFIX,bytetos.com
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,feelgood.cn
-DOMAIN-SUFFIX,huoshanstatic.com
-DOMAIN-SUFFIX,ibytedapm.com
-DOMAIN-SUFFIX,ndcpp.com
-DOMAIN-SUFFIX,yhgfb-cn-static.com
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,baike.com
-DOMAIN-SUFFIX,bdurl.net
-DOMAIN-SUFFIX,bytemaimg.com
-DOMAIN-SUFFIX,bytemastatic.com
-DOMAIN-SUFFIX,ecombdapi.com
-DOMAIN-SUFFIX,ecombdpage.com
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,qishui.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,toutiaocloud.com
-DOMAIN-SUFFIX,toutiaocloud.net
-DOMAIN-SUFFIX,ugsdk.cn
-DOMAIN-SUFFIX,z1cdn.com
-DOMAIN-SUFFIX,bytehwm.com
-DOMAIN-SUFFIX,0kkkkkt.com
-DOMAIN-SUFFIX,bjmxy.net
-DOMAIN-SUFFIX,bytecdn.com
-DOMAIN-SUFFIX,cjjd14.com
-DOMAIN-SUFFIX,qtaeixd.com
-DOMAIN-SUFFIX,sjxydc.com
-DOMAIN-SUFFIX,wuchuyun.com
-DOMAIN-SUFFIX,ydycdn.com
-DOMAIN-SUFFIX,bdgp.cc
-DOMAIN-SUFFIX,bytegeckoext.com
-DOMAIN-SUFFIX,miaozhen.com
-DOMAIN-SUFFIX,qiezibenpao.com
-DOMAIN-SUFFIX,qrstuvwxyzab.com
-DOMAIN-SUFFIX,toutiaostatic.com
-DOMAIN-SUFFIX,xinqiucc.com
-
-# 腾讯
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,qq.com.cn
-DOMAIN-SUFFIX,qpic.cn
-# 用户头像
-DOMAIN-SUFFIX,qlogo.cn
-DOMAIN-SUFFIX,tencent-cloud.net
-DOMAIN-SUFFIX,tencentcos.cn
-DOMAIN-SUFFIX,tfogc.com
-DOMAIN-SUFFIX,wechatpay.cn
-
-# 美团
-DOMAIN,www.dpfile.com
-DOMAIN,api.neixin.cn
-DOMAIN-SUFFIX,meituan.com
-DOMAIN-SUFFIX,meituan.net
-DOMAIN-SUFFIX,dianping.com
-DOMAIN-SUFFIX,sankuai.com
-
-# B站
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,mountaintoys.cn
-
 # 阿里巴巴
-DOMAIN-SUFFIX,aliyuncs.com
-
-# DeepSeek
-DOMAIN-SUFFIX,deepseek.com
+DOMAIN,alibaba-cn-pvg-00001.oss-enet.aliyuncs.com
 
 # Microsoft
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,office.com
-
-# 北京数美时代科技有限公司
-DOMAIN-SUFFIX,fengkongcloud.cn
-DOMAIN-SUFFIX,portal101.cn
+DOMAIN,mobile.events.data.microsoft.com
+DOMAIN,officeci-mauservice.azurewebsites.net
+DOMAIN,res.public.onecdn.static.microsoft
+DOMAIN,ecs.office.com
 
 # 国内直连
 DOMAIN,ocsp.digicert.cn
@@ -115,10 +29,12 @@ DOMAIN-SUFFIX,miit.gov.cn
 
 # 国外直连
 DOMAIN,ocsp.usertrust.com
-DOMAIN-SUFFIX,cloudflare.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,cp10.cloudflare.com
 # 实时检查数字证书
 DOMAIN,ocsp.comodoca.com
-DOMAIN-SUFFIX,ghostty.org
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,ohttp-relay1.fastly-edge.com
 
 # LAN
 IP-CIDR,192.168.0.0/16,no-resolve
