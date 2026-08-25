@@ -79,6 +79,7 @@ DOMAIN-SUFFIX,fengkongcloud.cn
 DOMAIN-SUFFIX,portal101.cn
 
 # 国内直连
+DOMAIN,ocsp.digicert.cn
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,miit.gov.cn
 
