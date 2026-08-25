@@ -16,6 +16,28 @@ IP-CIDR,17.0.0.0/8,no-resolve
 # 字节跳动
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,applogcdn.com
+DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,byteeffecttos.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetcc.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,feelgood.cn
+DOMAIN-SUFFIX,huoshanstatic.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,ndcpp.com
+DOMAIN-SUFFIX,yhgfb-cn-static.com
+DOMAIN-SUFFIX,zijieapi.com
 
 # 腾讯
 DOMAIN-SUFFIX,qq.com
