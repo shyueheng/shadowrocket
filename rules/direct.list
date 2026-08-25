@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,miit.gov.cn
 
 # 国外直连
+DOMAIN-SUFFIX,cloudflare.com
 # 实时检查数字证书
 DOMAIN,ocsp.comodoca.com
 DOMAIN-SUFFIX,ghostty.org
