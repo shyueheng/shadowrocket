@@ -74,6 +74,10 @@ DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,office.com
 
+# 北京数美时代科技有限公司
+DOMAIN-SUFFIX,fengkongcloud.cn
+DOMAIN-SUFFIX,portal101.cn
+
 # 国内直连
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,miit.gov.cn
